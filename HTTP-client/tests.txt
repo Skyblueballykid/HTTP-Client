@@ -1,0 +1,24 @@
+
+Test Case 1
+->Command: http://localhost:8888/server_folder/file1
+
+Test Case 2
+->Command: http://localhost:8888/server_folder/file2
+
+Test Case 3
+->Command: http://localhost:8888/server_folder/file4
+
+Test Case 4
+->Command: http://localhost:8888/server_folder/file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_file_
+
+Test Case 5
+->Command: http://localhost:8888/server_folder/folder3/file3
+
+Test Case 6
+->Command: http://localhost:8888/server_folder/no_file
+
+Test Case 7
+->Command: htstp://localhost:8888/server_folder/file
+
+Test Case 8
+->Command: http://nohosthere/file
